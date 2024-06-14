@@ -5,7 +5,7 @@
 <img align="right" width=400 height=300 src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1723680000&v=beta&t=dN_l8-iDPvUHiqM3ycTXELzdhC8ZTmp0CQSur414EJA" alt="coding">
 
 - 👨‍💻 Front-end:
-  <br>
+  <br><br>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
    <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
